@@ -1,0 +1,39 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AFirst_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2025_002E2_003Fresharper_002Dhost_003FSourcesCache_003Fc9f1e78ef04f5214281bc448c6a251bb5f9a3135b662f76745bbfb39b14150_003FFirst_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AXUnit2TestFramework_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2025_002E2_003Fresharper_002Dhost_003FSourcesCache_003Fc62dbcc4ba2718769223d2edcbb462defa1d97c8f2ef066639d41ddd521e_003FXUnit2TestFramework_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=037d8570_002Dd8d2_002D42e7_002Dadc1_002Df3e5261dfdac/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BooksIntegrationTests #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::E1E35195-FE39-4BC0-AEF5-E43F5C58EF06::net9.0::LibraryApi.Tests.Integration.BooksIntegrationTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=31a6464f_002D794b_002D44fc_002Dbd6f_002Dea8a7cfed2ee/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="BooksIntegrationTests #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::E1E35195-FE39-4BC0-AEF5-E43F5C58EF06::net9.0::LibraryApi.Tests.Integration.BooksIntegrationTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::E1E35195-FE39-4BC0-AEF5-E43F5C58EF06::net9.0::LibraryApi.Tests.Services.BookServiceTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3bf913a4_002D0feb_002D4abc_002Da9ab_002Dc04252fd6635/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BooksIntegrationTests #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::E1E35195-FE39-4BC0-AEF5-E43F5C58EF06::net9.0::LibraryApi.Tests.Integration.BooksIntegrationTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8661140f_002De888_002D4280_002Db2c2_002Db13e222cdbfd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BooksIntegrationTests #7" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::E1E35195-FE39-4BC0-AEF5-E43F5C58EF06::net9.0::LibraryApi.Tests.Integration.BooksIntegrationTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8e954d62_002D9dbe_002D4302_002Dae5e_002Dca476e16e35d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BooksIntegrationTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::E1E35195-FE39-4BC0-AEF5-E43F5C58EF06::net9.0::LibraryApi.Tests.Integration.BooksIntegrationTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=aaa58365_002D573c_002D4d3f_002D87f2_002Db1abce427468/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BooksIntegrationTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::E1E35195-FE39-4BC0-AEF5-E43F5C58EF06::net9.0::LibraryApi.Tests.Integration.BooksIntegrationTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e54c7db3_002D4de9_002D4de0_002D8d1a_002D949accac5cff/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BooksIntegrationTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::E1E35195-FE39-4BC0-AEF5-E43F5C58EF06::net9.0::LibraryApi.Tests.Integration.BooksIntegrationTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

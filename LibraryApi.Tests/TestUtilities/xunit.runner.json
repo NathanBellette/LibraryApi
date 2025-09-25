@@ -1,0 +1,13 @@
+{
+  "methodDisplay": "method",
+  "methodDisplayOptions": "all",
+  "parallelizeAssembly": true,
+  "parallelizeTestCollections": true,
+  "maxParallelThreads": 4,
+  "preEnumerateTheories": true,
+  "preEnumerateTheories": true,
+  "shadowCopy": false,
+  "stopOnFail": false,
+  "diagnosticMessages": true,
+  "internalDiagnosticMessages": false
+}
